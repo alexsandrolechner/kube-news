@@ -1,2 +1,2 @@
 # kube-news
-    KubeNews, que usa NodeJS e um banco MongoDB
+    KubeNews, que usa NodeJS e um banco Postgre
